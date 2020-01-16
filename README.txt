@@ -1,5 +1,5 @@
 # Sudoku
-A project done during the C Piscine in 42 that solves an inputted, legal, and singular solution Sudoku puzzle using the backtracking recursive method.
+A project done during the C Piscine in 42 Silicon Valley that solves an inputted, legal, and singular solution Sudoku puzzle using the backtracking recursive method.
 
 Differences from the PDF:
 ---
